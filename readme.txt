@@ -10,7 +10,7 @@ Python3 and beautifulsoup library installed
 Usage
 
 The main file (app.py) has commented the four functionalities (get_links, get_elements, get_previews and finder)
-you can uncomment each block to see how their work
+you can uncomment each block to see how it works.
 
 get_links
 This functionality get only the links of the preeliminary views of the news (is recommendable that you open the
